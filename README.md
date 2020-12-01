@@ -1,2 +1,3 @@
 # SMS-Spam-Filter
-This is an ongoing project where I built a Spam Filter with the Naive Bayes algorithm
+This is an ongoing project.
+In this project, I built a Spam Filter using the Naive Bayes algorithm.
